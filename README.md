@@ -1,4 +1,4 @@
-# audacetask
+# Token Balance Retrieval Using Web3
 Files
 final.py: Python script for compiling and deploying an ERC-20 token smart contract.
 ethcreation.py: Python script to generate an Ethereum account and save the credentials in a .env file.
